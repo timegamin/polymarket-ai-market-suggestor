@@ -1,4 +1,4 @@
-# PolySuggest AI — Polymarket AI Market Suggestor
+# Polymarket AI Market Suggestor
 
 [![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=flat&logo=python)](https://www.python.org/)
 [![LangChain](https://img.shields.io/badge/LangChain-0.3.x-1A4C82?style=flat)](https://python.langchain.com/)
@@ -13,7 +13,7 @@ AI-native workflow that transforms real-time trends, news, and existing Polymark
 
 SEO keywords: Polymarket AI, AI agent Polymarket, Polymarket AI market prediction, AI market prediction, Polymarket prediction market bot, Polymarket real-time trading bot, Polymarket AI trading bot, Polymarket market analyzer, Polymarket AI market suggestor.
 
----
+
 
 ## Why PolySuggest AI?
 
@@ -27,7 +27,6 @@ SEO keywords: Polymarket AI, AI agent Polymarket, Polymarket AI market predictio
 
 > ℹ️ The AI core and workflow are inspired by leading open-source prediction market agents such as [Prediction-Market-AggregationAgent-system](https://github.com/Prithwis-AIAgent/Prediction-Market-AggregationAgent-system) while focusing on generative market ideation instead of trading.
 
----
 
 ## Architecture Overview
 
@@ -63,7 +62,6 @@ SuggestionBundle (Pydantic)
 - `reporting.py` — exports Markdown dashboards and history summaries.
 - `cli.py` — Typer command group: `suggest` and `summarize`.
 
----
 
 ## Quick Start
 
@@ -121,7 +119,6 @@ polysuggest show 3        # Detailed view for run #3
 polysuggest insights      # Aggregated stats (top tags, avg confidence, sentiment)
 ```
 
----
 
 ## Configuration
 
@@ -140,7 +137,6 @@ Environment variables (copy `ENV.sample`):
 
 No LLM key? The system falls back to a deterministic heuristic generator so pipelines remain testable offline.
 
----
 
 ## Roadmap
 
@@ -150,7 +146,6 @@ No LLM key? The system falls back to a deterministic heuristic generator so pipe
 - Optional Polymarket CLOB integration to auto-submit community market suggestions.
 - RAG knowledge base seeded with past Polymarket markets and governance posts.
 
----
 
 ## Development & Testing
 
@@ -168,14 +163,6 @@ python -m polysuggest.cli suggest "US election turnout"
 Logging is powered by Loguru; set `LOGURU_LEVEL=DEBUG` for verbose traces.
 
 Dockerfile coming soon (project is fully dependency-pinned via `requirements.txt` / `pyproject.toml`).
-
----
-
-## License
-
-Apache-2.0. Use responsibly and comply with Polymarket’s terms of service. Trading and forecasting carry risk.
-
----
 
 ## Need help or collaboration?
 
